@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mark.
-- 👀 I’m interested in making human life easier. 
+- 👀 I’m interested in making life easier. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
