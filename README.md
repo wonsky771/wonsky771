@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mark.
 - 👀 I’m interested in making life easier, more exciting. 
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects connected with technology, games, 
+- 🌱 I’m currently learning Python, Java.
+- 💞️ I’m looking to collaborate on projects connected with technology, games. 
 - 📫 How to reach me: marek.urbanski93@gmail.com
 
 <!---
